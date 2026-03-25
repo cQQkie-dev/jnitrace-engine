@@ -2213,7 +2213,7 @@
             "JNIEnv*",
             "jobject"
         ],
-        "ret": "void"
+        "ret": "void*"
     },
     {
         "name": "GetDirectBufferCapacity",
