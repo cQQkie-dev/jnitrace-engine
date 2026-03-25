@@ -2145,7 +2145,7 @@
             "jarray",
             "jboolean*"
         ],
-        "ret": "void"
+        "ret": "void*"
     },
     {
         "name": "ReleasePrimitiveArrayCritical",
@@ -2164,7 +2164,7 @@
             "jstring",
             "jboolean*"
         ],
-        "ret": "jchar"
+        "ret": "jchar*"
     },
     {
         "name": "ReleaseStringCritical",
